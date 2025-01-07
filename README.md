@@ -8,7 +8,6 @@ The project is organized into the following structure:
 
 ```
 imdb-movies-data-analysis/
-├── src/
 │   ├── app.py            # Main Streamlit application
 │   ├── eda.py            # Script for exploratory data analysis
 │   ├── model.py          # Machine learning model training and prediction
